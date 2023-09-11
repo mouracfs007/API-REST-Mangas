@@ -76,3 +76,10 @@ C:\Users\FamiliaGuedes\Documents\Github-Projects\ApiMangas\ApiMangas\obj\Debug\n
 C:\Users\FamiliaGuedes\Documents\Github-Projects\ApiMangas\ApiMangas\obj\Debug\net7.0\ApiMangas.pdb
 C:\Users\FamiliaGuedes\Documents\Github-Projects\ApiMangas\ApiMangas\obj\Debug\net7.0\ApiMangas.genruntimeconfig.cache
 C:\Users\FamiliaGuedes\Documents\Github-Projects\ApiMangas\ApiMangas\obj\Debug\net7.0\ref\ApiMangas.dll
+C:\Users\FamiliaGuedes\Documents\Github-Projects\ApiMangas\ApiMangas\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\FamiliaGuedes\Documents\Github-Projects\ApiMangas\ApiMangas\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\FamiliaGuedes\Documents\Github-Projects\ApiMangas\ApiMangas\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\FamiliaGuedes\Documents\Github-Projects\ApiMangas\ApiMangas\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\FamiliaGuedes\Documents\Github-Projects\ApiMangas\ApiMangas\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\FamiliaGuedes\Documents\Github-Projects\ApiMangas\ApiMangas\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\FamiliaGuedes\Documents\Github-Projects\ApiMangas\ApiMangas\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
