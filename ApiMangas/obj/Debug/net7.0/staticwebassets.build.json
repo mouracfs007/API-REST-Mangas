@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bMVS6xVb4m1A9aD3TnmH+nQMUOx1viVZ49+vDBvcSGc=",
+  "Hash": "pHwBPJOHJ7sLNpOtgl7IXZl7MFI+MQX5HrFAiomxp38=",
   "Source": "ApiMangas",
   "BasePath": "_content/ApiMangas",
   "Mode": "Default",
@@ -16,6 +16,74 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\images\\bleach-rebooted-souls.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/bleach-rebooted-souls.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bleach-rebooted-souls.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\images\\Cavaleiro-do-zodiaco.png",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/Cavaleiro-do-zodiaco.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Cavaleiro-do-zodiaco.png"
+    },
+    {
+      "Identity": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\images\\death-note-anime.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/death-note-anime.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\death-note-anime.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\images\\death-note-capa.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/death-note-capa.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\death-note-capa.jpg"
+    },
     {
       "Identity": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\images\\dragonball1.jpg",
       "SourceId": "ApiMangas",
@@ -49,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\naruto1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\images\\super-11.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/super-11.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\super-11.jpg"
     }
   ]
 }
