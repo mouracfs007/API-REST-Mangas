@@ -2,11 +2,13 @@
 using ApiMangas.Entities;
 using ApiMangas.Repositories.Interfaces;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ApiMangas.Controllers
 {
     [Route("api/[controller]")]
+    [Authorize(AuthenticationSchemes = "Bearer")]
     [ApiController]
     public class MangasController : ControllerBase
     {
@@ -21,10 +23,6 @@ namespace ApiMangas.Controllers
         }
 
         [HttpGet]
-        // Atributos de ação que fornecem informações sobre os possíveis códigos de status HTTP
-        // que podem ser retornados pelo endpoint da Web API.
-        // Esses atributos indicam os códigos de status de resposta esperados para esse endpoint
-        // específico e ajudam a documentar e definir a semântica da API
         [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<IActionResult> GetAll()
         {
