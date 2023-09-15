@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HCEzZAb9DgISGLIAIAb6ZmuUloWCntsPSn2eptSqh6E=",
+  "Hash": "p08nZO514/ZPNVJ0+YVFGCAMrI1eaH6ieQoRmN+KEdU=",
   "Source": "ApiMangas",
   "BasePath": "_content/ApiMangas",
   "Mode": "Default",
@@ -187,6 +187,23 @@
       "OriginalItemSpec": "wwwroot\\images\\karekano1.jpg"
     },
     {
+      "Identity": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\images\\kono-suba1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/kono-suba1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\kono-suba1.jpg"
+    },
+    {
       "Identity": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\images\\My-Hero-Academy.jpg",
       "SourceId": "ApiMangas",
       "SourceType": "Discovered",
@@ -219,6 +236,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\naruto1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\images\\orquideanegra1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/orquideanegra1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\orquideanegra1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\images\\sakura1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/sakura1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sakura1.jpg"
     },
     {
       "Identity": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\images\\spirit1.jpg",
