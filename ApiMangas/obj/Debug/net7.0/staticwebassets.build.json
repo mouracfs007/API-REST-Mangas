@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pHwBPJOHJ7sLNpOtgl7IXZl7MFI+MQX5HrFAiomxp38=",
+  "Hash": "AuBLvfQ1jtuKuAYMWocrsVtTnqrit73XO+ziU7w2Uk8=",
   "Source": "ApiMangas",
   "BasePath": "_content/ApiMangas",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\images\\atack.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/atack.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\atack.jpg"
+    },
     {
       "Identity": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\images\\bleach-rebooted-souls.jpg",
       "SourceId": "ApiMangas",
@@ -100,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\dragonball1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\images\\My-Hero-Academy.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/My-Hero-Academy.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\My-Hero-Academy.jpg"
     },
     {
       "Identity": "C:\\Users\\FamiliaGuedes\\Documents\\Github-Projects\\ApiMangas\\ApiMangas\\wwwroot\\images\\naruto1.jpg",
